@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:secondtry/view/screens/fonts/font.dart';
+import 'package:secondtry/view/fonts/font.dart';
 import 'package:secondtry/view/screens/home_screen.dart';
 import 'package:secondtry/viewmodels/view_prefecture_list_model.dart';
 

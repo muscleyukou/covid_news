@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:secondtry/view/screens/pages/animation_screen.dart';
-import 'package:secondtry/view/screens/pages/head_line_page.dart';
-import 'package:secondtry/view/screens/pages/movie_list.dart';
+import 'package:secondtry/view/pages/animation_screen.dart';
+import 'package:secondtry/view/pages/head_line_page.dart';
+import 'package:secondtry/view/pages/movie_list.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

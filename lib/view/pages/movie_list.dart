@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:secondtry/view/screens/conponents/search_bar.dart';
-import 'package:secondtry/view/screens/data/search_type.dart';
+import 'package:secondtry/view/conponents/search_bar.dart';
+import 'package:secondtry/view/data/search_type.dart';
 import 'package:secondtry/viewmodels/view_prefecture_list_model.dart';
 import 'package:provider/provider.dart';
 class MovieList extends StatelessWidget {
